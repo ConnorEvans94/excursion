@@ -30,3 +30,7 @@ video {
     font-size: 21px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.copyright {
+    text-align: right;
+    color: gray;
+}
